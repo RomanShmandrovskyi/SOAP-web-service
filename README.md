@@ -6,7 +6,7 @@ mvn clean install jetty:run
 2. In field "Initial WSDL" put http://localhost:8080/WalletService?wsdl<br/>
 3. OK
 ## 3. Data filling
-Try to add some wallets by sending addNewWallet request (5 at least)<br/>
+Try to add some wallets by sending addNewWallet request (3 will be enough)<br/>
 ## 4. Web Service opportunities
 1. Add new wallet<br/>
 2. Buy some goods (you have a credit limit in 50, and you can't exceed it)<br/>
